@@ -1,6 +1,4 @@
-
-# Creating-a-backdoor-with-SET
-Creating a backdoor with SET - Ethical Hacking Techniques course
+# Exp - 07: Creating a backdoor with Social Engineering Toolkit (SET)
 
 #### Name: SHYAM S
 #### Reg.No: 212223240156
